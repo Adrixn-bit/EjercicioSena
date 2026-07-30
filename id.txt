@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Kevin Adrian Vega Lopez
-=======
-CC 1057980156
->>>>>>> 2dc75d83b2d4a5e88128777c8e5305567406633f
+Ramiro BArragan
+Sindy Yuliana Rincon Rodriguez
+1057980120
